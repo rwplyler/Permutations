@@ -1,0 +1,16 @@
+C:\Users\Rodge\source\repos\Permutation\Permutation\obj\Debug\net5.0\Permutation.csproj.AssemblyReference.cache
+C:\Users\Rodge\source\repos\Permutation\Permutation\obj\Debug\net5.0\Permutation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodge\source\repos\Permutation\Permutation\obj\Debug\net5.0\Permutation.AssemblyInfoInputs.cache
+C:\Users\Rodge\source\repos\Permutation\Permutation\obj\Debug\net5.0\Permutation.AssemblyInfo.cs
+C:\Users\Rodge\source\repos\Permutation\Permutation\obj\Debug\net5.0\Permutation.csproj.CoreCompileInputs.cache
+C:\Users\Rodge\source\repos\Permutation\Permutation\bin\Debug\net5.0\Permutation.exe
+C:\Users\Rodge\source\repos\Permutation\Permutation\bin\Debug\net5.0\Permutation.deps.json
+C:\Users\Rodge\source\repos\Permutation\Permutation\bin\Debug\net5.0\Permutation.runtimeconfig.json
+C:\Users\Rodge\source\repos\Permutation\Permutation\bin\Debug\net5.0\Permutation.runtimeconfig.dev.json
+C:\Users\Rodge\source\repos\Permutation\Permutation\bin\Debug\net5.0\Permutation.dll
+C:\Users\Rodge\source\repos\Permutation\Permutation\bin\Debug\net5.0\ref\Permutation.dll
+C:\Users\Rodge\source\repos\Permutation\Permutation\bin\Debug\net5.0\Permutation.pdb
+C:\Users\Rodge\source\repos\Permutation\Permutation\obj\Debug\net5.0\Permutation.dll
+C:\Users\Rodge\source\repos\Permutation\Permutation\obj\Debug\net5.0\ref\Permutation.dll
+C:\Users\Rodge\source\repos\Permutation\Permutation\obj\Debug\net5.0\Permutation.pdb
+C:\Users\Rodge\source\repos\Permutation\Permutation\obj\Debug\net5.0\Permutation.genruntimeconfig.cache
